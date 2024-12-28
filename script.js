@@ -111,7 +111,7 @@ document.getElementById("showResult").addEventListener("click", function () {
         },
         "15-25_2/5_2/5_2/5_2/5_-_128GB_4GB": {
             name: "Samsung A15",
-            image: "PhoneSelector.github.io/images/a15.jpg",
+            image: "images/a15.jpg",
             details: {
                 en: "The Samsung Galaxy A15 smartphone has a classic case design. The 6.5-inch screen with a Super AMOLED matrix reproduces a clear, detailed image. The Eye Comfort function reduces the strain on your eyesight. Three main cameras are represented by a 5-megapixel ultra-wide-angle, 50-megapixel wide-angle and 2-megapixel for macro photography. Thanks to them, you can create bright and realistic photos and shoot videos in Full HD format.",
                 ru: "Смартфон Samsung Galaxy A15 имеет классический дизайн корпуса. 6,5-дюймовый экран с матрицей Super AMOLED воспроизводит четкое, детализированное изображение. Функция «Eye Comfort» снижает нагрузку на зрение. Три основные камеры представлены 5-мегапиксельной сверхширокоугольной, 50-мегапиксельной широкоугольной и 2-мегапиксельной для макросъемки. Благодаря им можно создавать яркие и реалистичные фотографии и снимать видео в формате Full HD."
